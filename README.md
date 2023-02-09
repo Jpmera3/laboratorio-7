@@ -25,4 +25,7 @@ Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 
 1.3 MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/104911658/217911241-89fd49f5-a25a-4ee4-bfa6-c92ca7f585b6.png)
+![image](https://user-images.githubusercontent.com/104911658/217912425-a75e1af3-dec6-4732-b302-961292a08ec4.png)
+
+![image](https://user-images.githubusercontent.com/104911658/217912498-06a2514b-378e-4ced-92a6-12ff6bad9b45.png)
+
