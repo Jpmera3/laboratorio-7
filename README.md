@@ -31,7 +31,7 @@ Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 
 1.4. MATERIAL Y EQUIPO REQUERIDO
 
-![image](https://user-images.githubusercontent.com/107088999/217972118-1ff2722a-6fd3-4773-9d38-8c7b642a1685.png)
+![Materiales](https://user-images.githubusercontent.com/117534483/218115418-37026d23-4450-4eff-b65d-6dd6da1e9bb3.png)
 
 1.5. PROCEDIMIENTO
 
@@ -123,6 +123,114 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 1000 hz
 
 ![image](https://user-images.githubusercontent.com/107088999/217998801-1d13044f-6a56-495c-9575-0ff67dba7471.png)
+
+2.- Construya el circuito mostrado en la Figura 2
+
+![Figura 2](https://user-images.githubusercontent.com/117534483/218115657-e9ebdfee-7c58-4c66-8290-5a755b377d0e.png)
+
+Simulacion ACDCLad
+
+![Figura 2 Lab](https://user-images.githubusercontent.com/117534483/218116127-18e4a3ca-c1d1-49d5-8855-16fb7878bf7a.png)
+
+a.	Utilice el osciloscopio para observar el voltaje 𝑉𝑜 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los valores pico de las ondas observadas.
+
+0 hz
+
+![0HZ](https://user-images.githubusercontent.com/117534483/218120264-5012aae4-b071-46ab-81db-792d68448fc9.png)
+
+10 hz
+
+![10HZ](https://user-images.githubusercontent.com/117534483/218120310-11776fa4-50bf-4679-9509-7dbc588c7d82.png)
+
+50 hz
+
+![50HZ](https://user-images.githubusercontent.com/117534483/218120327-8f9cb1d8-8fcd-4b2b-a14e-f35911c9d4a9.png)
+
+100 hz
+
+![100HZ](https://user-images.githubusercontent.com/117534483/218120356-e576080b-051c-412f-82d5-186175b4aafb.png)
+
+500 hz
+
+![500HZ](https://user-images.githubusercontent.com/117534483/218120383-5d99c1dc-f9df-4f3e-9c8b-97a9cdacbc25.png)
+
+1000 hz
+
+![1000HZ](https://user-images.githubusercontent.com/117534483/218120433-566ba397-8c38-4186-8158-9f2acb006663.png)
+
+b.	Utilice un multímetro para medir el voltaje 𝑉𝑜 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
+
+0 hz
+
+![0 V](https://user-images.githubusercontent.com/117534483/218120481-41299561-8552-4d53-bad1-297f09bf1814.png)
+
+10 hz
+
+![10 V](https://user-images.githubusercontent.com/117534483/218120560-3a0a4ef1-58c6-45fb-a12a-a867b4d01d5c.png)
+
+50 hz
+
+![50 V](https://user-images.githubusercontent.com/117534483/218120583-b634bd66-1d71-43a9-9894-f3e87f9452f2.png)
+
+100 hz
+
+![100 V](https://user-images.githubusercontent.com/117534483/218120627-a7c9f8f7-523c-471f-8688-351e4456fff0.png)
+
+500 hz
+
+![500 V](https://user-images.githubusercontent.com/117534483/218120641-27a732a7-e135-4eef-a4d9-57e94c20010d.png)
+
+1000 hz
+
+![1000 V](https://user-images.githubusercontent.com/117534483/218120710-3501a70d-33f3-4d52-9757-290b8dde3aa4.png)
+
+c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
+
+0 hz
+
+![0 A](https://user-images.githubusercontent.com/117534483/218120848-71d6aa57-71fa-4223-a5a8-b8835d2450f8.png)
+
+10 hz
+
+![10 A](https://user-images.githubusercontent.com/117534483/218120866-48985f8e-b8db-4704-a92f-2eb194cddb54.png)
+
+50 hz
+
+![50 A](https://user-images.githubusercontent.com/117534483/218120890-dea63f7a-bedf-45b5-a452-4e0cf7e346ad.png)
+
+100 hz
+
+![100 A](https://user-images.githubusercontent.com/117534483/218120922-7c3d6fc6-12ca-43d1-bd87-e037ba91ee15.png)
+
+500 hz
+
+![500 A](https://user-images.githubusercontent.com/117534483/218120941-e8b648a8-135e-4a1a-84da-cdff451dbdb3.png)
+
+1000 hz
+
+![1000 A](https://user-images.githubusercontent.com/117534483/218120970-06b3f70a-3a71-4b42-890b-00dda78fad15.png)
+
+1.6. ANÁLISIS DE RESULTADOS
+
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+
+
+1.7. Preguntas
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+
+3.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+
+
 
 
 
