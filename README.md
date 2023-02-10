@@ -29,3 +29,27 @@ Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 
 ![image](https://user-images.githubusercontent.com/104911658/217912498-06a2514b-378e-4ced-92a6-12ff6bad9b45.png)
 
+1.4. MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/107088999/217972118-1ff2722a-6fd3-4773-9d38-8c7b642a1685.png)
+
+1.5. PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/107088999/217972280-79b5001c-a9ca-4526-9f21-2e3379184d4f.png)
+
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
+![image](https://user-images.githubusercontent.com/107088999/217972398-9a63c2ee-c5ac-4b12-973c-67155ffd79c7.png)
+
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+
+
+
+
+
+
+
+
