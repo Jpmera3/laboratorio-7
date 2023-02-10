@@ -31,14 +31,7 @@ Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 
 1.4. MATERIAL Y EQUIPO REQUERIDO
 
-* Laboratorio virtual ACDCLab
-*  Generador de señales
-*  Fuente DC.
-*  Osciloscopio.
-*  Protoboard
-*  Multímetro
-*  Cables conductores
-*  Resistencias, bobinas y capacitores.
+![image](https://user-images.githubusercontent.com/107088999/217972118-1ff2722a-6fd3-4773-9d38-8c7b642a1685.png)
 
 1.5. PROCEDIMIENTO
 
@@ -87,6 +80,59 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 10 hz
 
 ![image](https://user-images.githubusercontent.com/107088999/217996289-6392e002-7468-4b05-b690-894fa749f5bc.png)
+
+50 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217996580-8019e483-fc0b-4e55-b562-4eaefcd47973.png)
+
+100 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217996816-fcd5ad14-f95a-4087-8d8e-726a1003727d.png)
+ 
+500 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217997051-085e3679-a681-472c-a1c6-02bcf92f1442.png)
+
+1000 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217997140-494c4d18-5379-419c-81b9-554ceea8f151.png)
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+0 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217997913-462c362b-d337-496d-9869-373646691f81.png)
+
+10 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217998221-ef313418-3d10-4627-824a-9e80a984bcb5.png)
+
+50hz
+
+![image](https://user-images.githubusercontent.com/107088999/217998388-76c6053b-bdb5-41dd-b7e0-a9f520c1378d.png)
+
+100 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217998547-c62a9ba0-1f10-4da6-b595-c552be3d2d3a.png)
+
+500 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217998692-4d014d20-14f4-442a-bf13-7833e8d3859b.png)
+
+1000 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217998801-1d13044f-6a56-495c-9575-0ff67dba7471.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
