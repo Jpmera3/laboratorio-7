@@ -31,7 +31,14 @@ Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 
 1.4. MATERIAL Y EQUIPO REQUERIDO
 
-![image](https://user-images.githubusercontent.com/107088999/217972118-1ff2722a-6fd3-4773-9d38-8c7b642a1685.png)
+* Laboratorio virtual ACDCLab
+*  Generador de señales
+*  Fuente DC.
+*  Osciloscopio.
+*  Protoboard
+*  Multímetro
+*  Cables conductores
+*  Resistencias, bobinas y capacitores.
 
 1.5. PROCEDIMIENTO
 
