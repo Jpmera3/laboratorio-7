@@ -45,6 +45,43 @@ Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
+0 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217992648-537d3326-2e1f-40d0-b397-ca90449cfa97.png)
+
+10 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217992449-f2a9bdd2-6bfd-4e68-bcba-7e24309e88ec.png)
+
+50 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217993172-436b932c-d128-4e60-b3a8-378d55d8131d.png)
+
+100 hz
+ 
+![image](https://user-images.githubusercontent.com/107088999/217993442-dfc6afd3-1a1d-489d-bfcf-c005a66df84c.png)
+
+500 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217993752-54b36953-0924-4456-a69b-af5f3d043bef.png)
+
+1000 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217994250-c19781a6-c7b3-4e5d-bf96-5f8f37bdc182.png)
+
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+0 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217996134-d71d675c-031a-4f2c-9437-282a02724066.png)
+
+10 hz
+
+![image](https://user-images.githubusercontent.com/107088999/217996289-6392e002-7468-4b05-b690-894fa749f5bc.png)
+
+
 
 
 
