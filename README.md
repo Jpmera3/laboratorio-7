@@ -12,28 +12,28 @@ Parcial: 3
 
 Laboratorio Nro 7 TEMA: INDUCTOR Y CAPACITOR
 
-1.1 OBJETIVO GENERAL
+7.1 OBJETIVO GENERAL
 
 * Estudiar los circuitos RC y RL, verificar la relación que tienen los voltajes medidos con el multímetro y el osciloscopio utilizando una fuente de voltaje alterno. Mediante el uso de un simulador de circuitos electrónicos. Escribir los datos adquiridos en tablas y posteriormente analizar los resultados de acuerdo a la teoría vista en clases.
  
-1.2 OBJETIVOS ESPECIFICOS
+7.2 OBJETIVOS ESPECIFICOS
 
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 - Familiarizarse con el uso de instrumentos de medida.
 
-1.3 MARCO TEORICO
+7.3 MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/104911658/217912425-a75e1af3-dec6-4732-b302-961292a08ec4.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/217912498-06a2514b-378e-4ced-92a6-12ff6bad9b45.png)
 
-1.4. MATERIAL Y EQUIPO REQUERIDO
+7.4. MATERIAL Y EQUIPO REQUERIDO
 
 ![Materiales](https://user-images.githubusercontent.com/117534483/218115418-37026d23-4450-4eff-b65d-6dd6da1e9bb3.png)
 
-1.5. PROCEDIMIENTO
+7.5. PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/107088999/217972280-79b5001c-a9ca-4526-9f21-2e3379184d4f.png)
 
@@ -210,26 +210,47 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![1000 A](https://user-images.githubusercontent.com/117534483/218120970-06b3f70a-3a71-4b42-890b-00dda78fad15.png)
 
-1.6. ANÁLISIS DE RESULTADOS
+7.6. ANÁLISIS DE RESULTADOS
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+* DATOS CAPACITORES
 
+* DATOS INDUCTORES
 
-1.7. Preguntas
+ ![INDUCTOR](https://user-images.githubusercontent.com/117534483/218125349-0bc60807-8b3c-408a-b403-a98f73f3e381.png)
+
+7.7. Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Las bobinas conectadas a una corriente continua retienen el paso de electrones hasta que se almacena la energía en los campos magnéticos. El capacitor de corriente continua se comporta como circuito abierto, esto al estar en régimen permanente, al estar en régimen transitorio (conectando o desconectando un circuito con condensador) suceden fenómenos transitorios incidentes sobre la diferencia de potencial en bornes
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+Cuando se conecta una corriente alterna sinusoidal a una bobina aparecerá una corriente sinusoidal variable por que aparecerá una fuerza electromotriz inverza, y su valor absoluto indica que es igual al de v(t). Conectando una corriente alterna sinusoidal v a un capacitor fluirá la corriente i (sinusoidal igual) dicha corriente lo cargará provocando caída de tension -vct y su valor absoluto es igual al de v(t).
 
-3.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+Voltaje y la corriente dentro de los circuitos será diferente en cada bobina o capacitor dependiendo de cómo sea conectado porque los capacitores en serie se dividen y paralelos se suman, en vez de la bobina es la inversa en serie se suman y los paralelos. dividen.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+El valor equivalente de corriente continua de una forma de onda de CA.
 
+7.8.-VIDEO
+
+* 
+
+7.9.-CONCLUSIONES
+
+Para este laboratorio fue importante tener paciencia a la hora trabajar con el simulador de dcaclab ya que este presentaba inconvenientes y en ciertas ocasiones no arrojaba los valores exactos o precisos que debería dar. Con respecto a los inductores y capacitores fue interesante trabajar con estos y ver su funcionamiento en el circuito, ya que con esto nos permite ampliar los conocimientos de la materia al igual que el uso y aprendizaje de funcionamiento de nuevas herramientas e instrumentos de medida.
+
+7.10.-BIBLIOGRAFÍA
+
+* F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
+* Vargas Urzagaste, D. (2017). CAPACITORES (Doctoral dissertation).
+* Landa, M., Díaz, A., Torres, A., Calleja, W., Murphy, R., & Huerta, J. (2001). Fabricación y caracterización de inductores sobre silicio. Superficies y vacío, (13), 44-49.
 
 
 
