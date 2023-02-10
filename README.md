@@ -216,6 +216,8 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 * DATOS CAPACITORES
 
+![image](https://user-images.githubusercontent.com/107088999/218140927-a37b4bc7-25a3-4326-ad82-6514e61d3d0d.png)
+
 * DATOS INDUCTORES
 
  ![INDUCTOR](https://user-images.githubusercontent.com/117534483/218125349-0bc60807-8b3c-408a-b403-a98f73f3e381.png)
