@@ -242,7 +242,7 @@ El valor equivalente de corriente continua de una forma de onda de CA.
 
 7.8.-VIDEO
 
-* 
+* https://youtu.be/4xwhbt7xnyo
 
 7.9.-CONCLUSIONES
 
